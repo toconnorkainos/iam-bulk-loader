@@ -9,3 +9,7 @@ Usage
 CSV File Format
 ---------------
 `Name,Email,Groups`
+
+Emailing
+--------
+This script expects you are a) on OSX, b) have MS Outlook installed. 
